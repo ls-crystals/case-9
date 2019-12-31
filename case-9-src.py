@@ -58,4 +58,3 @@ Resbox.grid(row=3, column=1,pady=10)
 root.mainloop
 def clear():
     numb1.delete
-    numb2.delete
